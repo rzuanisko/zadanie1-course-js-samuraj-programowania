@@ -2,4 +2,4 @@
  
  Assignment from the "Programming in JavaScript" course. Author of the course - Samuraj Programowania.
 
-The task is to create a 'div' object after clicking the button. Div elements are supposed to be placed next to each other. The div is supposed to be a square. Every fifth div is supposed to be a circle. Additionally, div elements should be numbered.
+The task is to create list items after clicking a button. Elements are added every 2. Each element divisible by 3 should have a larger font.
